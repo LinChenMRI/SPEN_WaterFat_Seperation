@@ -23,16 +23,21 @@ Xinran Chen, Wei Wang, Jianpan Huang, Jian Wu, Lin Chen\*, Congbo Cai, Shuhui Ca
 
 
 
-**Software requirements**
+Software requirements
 
 MATLAB:MATLAB vision: 9.9.0 (R2020b)
 
 Python:
 Python 3.6
+
 Numpy 1.19.1
+
 TensorFlow 1.8.0
+
 Scipy 1.4.1
+
 Scikit-image 0.17.2
+
 Tflearn 0.3.2
 
 **Instruction**:
@@ -47,7 +52,9 @@ Or call the python command in the MATLAB interface as annotated in the main func
 The inference results are stored in “reconstruction_result\DL_result” folder as a .mat file.
 
 **References**:
+
 **CG:** Schmidt R, Frydman L. In vivo 3D spatial/1D spectral imaging by spatiotemporal encoding: a new single-shot experimental and processing approach. Magn Reson Med. 2013;70(2):382-391.
+
 **SWAF:** Huang J, Chen L, Chan KWY, Cai C, Cai S, Chen Z. Super-resolved water/fat image reconstruction based on single-shot spatiotemporally encoded MRI. J Magn Reson. 2020;314:106736.
 
 
