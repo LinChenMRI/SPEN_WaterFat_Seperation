@@ -24,7 +24,9 @@ Xinran Chen, Wei Wang, Jianpan Huang, Jian Wu, Lin Chen\*, Congbo Cai, Shuhui Ca
 
 
 **Software requirements**
+
 MATLAB:MATLAB vision: 9.9.0 (R2020b)
+
 Python:
 Python 3.6
 Numpy 1.19.1
