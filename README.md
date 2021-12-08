@@ -23,7 +23,7 @@ Xinran Chen, Wei Wang, Jianpan Huang, Jian Wu, Lin Chen\*, Congbo Cai, Shuhui Ca
 
 
 
-Software requirements
+**Software requirements**
 
 MATLAB:MATLAB vision: 9.9.0 (R2020b)
 
