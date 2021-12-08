@@ -27,22 +27,12 @@ Software requirements
 
 MATLAB:MATLAB vision: 9.9.0 (R2020b)
 
-Python:
-Python 3.6
+Python: Python 3.6
 
-Numpy 1.19.1
-
-TensorFlow 1.8.0
-
-Scipy 1.4.1
-
-Scikit-image 0.17.2
-
-Tflearn 0.3.2
 
 **Instruction**:
 
-**Pre-processing for experimental data**:The data for testing was saved as .Charles format. Its dimension is 128\*128\*10. 128\*128 is the size of input and label image, while 10 channels contain two channels for the real (channel 1) and imaginary part (channel 2) of input images, two channels for the label images (in experimental data they are also blank) of water (channel 3) and fat (channel 4). 
+**Pre-processing for experimental data**:The data for testing was saved as .Charles format. Its dimension is 128\*128\*4. 128\*128 is the size of input and label image, while 4 channels contain two channels for the real (channel 1) and imaginary part (channel 2) of input images, two channels for the label images (in experimental data they are also blank) of water (channel 3) and fat (channel 4). 
 
 **Put data into trained U-net for water-fat separation**: The neural networks have been trained for reconstruct water and fat, respectively.  The trained model for water/fat is provided in “WFSR_SPEN\models”. To use the weights, you can run:
 
