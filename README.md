@@ -50,8 +50,6 @@ The inference results are stored in “reconstruction_result\DL_result” folder
 
 Welcome your comments and suggestions.
 
-For more information, please visit: https://linchenmri.com
-
 
 
 Dec. 4, 2021
